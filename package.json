@@ -1,0 +1,17 @@
+{
+  "name": "@taiwbi/editorjs-advancedparagraph",
+  "version": "1.0.0",
+  "description": "Adds text alignment and direction features to editorjs default paragraph block.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "editorjs",
+    "editor",
+    "tool",
+    "editor.js"
+  ],
+  "author": "taiwbi <admin@taiwbi.com>",
+  "license": "ISC"
+}
