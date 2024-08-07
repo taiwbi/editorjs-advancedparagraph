@@ -1,7 +1,7 @@
 {
   "name": "@taiwbi/editorjs-advancedparagraph",
-  "version": "1.0.2",
-  "description": "Adds text alignment and direction features to editorjs default paragraph block.",
+  "version": "1.0.3",
+  "description": "Paragraph tool with alignment and RTL support for Editorjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
