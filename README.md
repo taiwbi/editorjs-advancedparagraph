@@ -1,6 +1,6 @@
 # Advanced Paragraph for Editorjs
 
-Paragraph tool with alignment and RTL support for [Editorjs(https://editorjs.io)]
+Paragraph tool with alignment and RTL support for [Editorjs](https://editorjs.io)
 
 ## Installation
 
