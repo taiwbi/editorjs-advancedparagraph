@@ -59,7 +59,3 @@ const edjsParser = edjsHTML({
   paragraph: AdvancedParagraph.AdvancedParagraphParser /*, ...*/,
 });
 ```
-
-## LICENSE
-
-MIT Public License
